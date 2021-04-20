@@ -2,7 +2,7 @@
 
 </body>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=3e91b5&height=100&section=geader)
+![header](https://capsule-render.vercel.app/api?type=slice&color=3e91b5&height=60&section=geader)
 
 <!-- &text=Eunsung%20Jo&fontAlignY=35&fontSize=60) -->
 
@@ -55,5 +55,5 @@ My research lies in the fields of <b>computer vision📷</b>, <b>machine learnin
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esjo93&show_icons=true&locale=en&layout=compact" align="right" style="width: 100%" />
 </td></tr></table>  
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=CFBDB5&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=CFBDB5&height=60&section=footer)
 
