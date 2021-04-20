@@ -1,5 +1,4 @@
 <body style="background: #fff;color: #000;">
-</body>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3e91b5&height=60&section=geader)
 
@@ -51,3 +50,5 @@ My research lies in the fields of <b>computer vision📷</b>, <b>machine learnin
 </br>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=CFBDB5&height=60&section=footer)
+
+</body>
