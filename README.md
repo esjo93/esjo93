@@ -14,13 +14,13 @@ I'm currently pursuing the M.S. degree🎓 in <b>Artificial Intelligence Graduat
 My research lies in the fields of <b>computer vision📷</b>, <b>machine learning🧠</b></br>
 (especially in the <b>image resoration</b>, <b>generative model</b>, <b>domain adaptation</b>)
 </p>
-</br>
+
 <h2 align="center"> 📬 &nbsp Contact &nbsp 📬</h2>
 <p align="center">
     <a href="mailto:esjo@unist.ac.kr"><img src="https://img.shields.io/badge/e--mail-0078D4?&logo=microsoft%20outlook&logoColor=white"></a>
 	<a href="https://www.instagram.com/vamonos_es/"><img src="https://img.shields.io/badge/instagram-E4405F?&logo=instagram&logoColor=white"/></a>
 </p>
-</br>
+
 <h2 align="center"> 🛠️ &nbsp Tech Stack &nbsp 🛠️</h2>
 
 <p align="center">
@@ -46,7 +46,6 @@ My research lies in the fields of <b>computer vision📷</b>, <b>machine learnin
   <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white">
   
 </p>  
-</br>
 
 <h2 align="center"> 📊 &nbsp GitHub Statistics &nbsp 📊</h2>
  
