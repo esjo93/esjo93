@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esjo93&label=Profile%20views&color=0e75b6&style=flat" alt="esjo93" /> <img src="https://img.shields.io/github/followers/esjo93?label=Follow" /></p>
 
-<h3 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Eunsung Jo!</h3>
+<h3 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Eunsung Jo!</h3>
 <p align="center">
 I'm currently pursuing the M.S. degree🎓 in <b>Artificial Intelligence Graduate School</b>💻 at <b>UNIST</b>.</br>
 My research lies in the fields of <b>computer vision📷</b>, <b>machine learning🧠</b></br>
