@@ -16,6 +16,7 @@ My research lies in the fields of <b>computer vision📷</b>, <b>machine learnin
 <p align="center">
     <a href="mailto:esjo@unist.ac.kr"><img src="https://img.shields.io/badge/e--mail-0078D4?&logo=microsoft%20outlook&logoColor=white"></a>
 	<a href="https://www.instagram.com/vamonos_es/"><img src="https://img.shields.io/badge/instagram-E4405F?&logo=instagram&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/eunsung-jo-8060b7190/"><img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white"/></a>
 </p>
 </br>
 
