@@ -15,8 +15,10 @@ My research lies in the fields of <b>computer vision📷</b>, <b>machine learnin
 <h3 align="center"> 📬 &nbsp Contact &nbsp 📬</h3>
 <p align="center">
     <a href="mailto:esjo@unist.ac.kr"><img src="https://img.shields.io/badge/e--mail-0078D4?&logo=microsoft%20outlook&logoColor=white"></a>
-	<a href="https://www.instagram.com/vamonos_es/"><img src="https://img.shields.io/badge/instagram-E4405F?&logo=instagram&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/eunsung-jo-8060b7190/"><img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/vamonos_es/"><img src="https://img.shields.io/badge/instagram-E4405F?&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/eunsung-jo-8060b7190/"><img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white"/></a></br></br>
+    <a href="https://docs.google.com/viewer?url=https://github.com/esjo93/esjo93/raw/main/%EC%A1%B0%EC%9D%80%EC%84%B1_CV.pdf">[ Curriculum Vitae ]</a>
+	
 </p>
 </br>
 
